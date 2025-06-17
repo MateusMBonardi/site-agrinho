@@ -128,6 +128,20 @@ footer {
   padding: 25px;
   font-size: 0.95em;
 }
+ .botao-instagram {
+      background-color: #FFF3C7;
+      color: #5A7D5A;
+      padding: 12px 24px;
+      border: none;
+      border-radius: 8px;
+      font-size: 16px;
+      cursor: pointer;
+      text-decoration: none;
+    }
+
+    .botao-instagram:hover {
+      background-color: #FFF3C7;
+    }
 
 @media (max-width: 768px) {
   header h1 {
